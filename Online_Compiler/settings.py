@@ -28,7 +28,7 @@ SECRET_KEY = 'b%fup2bq_=v_a9fdav0ok4o5se5-i2k=*77-1na_z2cj*&0j65'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'vikrant-patil.herokuapp.com',
+ALLOWED_HOSTS = ['127.0.0.1', 'vp-compiler.herokuapp.com',
                  'localhost', 'www.vikrantpatil.live', 'vikrantpatil.live']
 
 
